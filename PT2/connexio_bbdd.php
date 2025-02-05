@@ -9,4 +9,6 @@ if ($conn->connect_error) {
     die("Error en la connexió: " . $conn->connect_error);
 }
 //echo "Connexió correcta!";
+
+
 ?>
